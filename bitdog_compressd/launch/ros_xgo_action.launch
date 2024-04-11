@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="husky2xgo" type="ros_xgo_action.py" name="xgo" output="screen">
+    </node>
+</launch>
